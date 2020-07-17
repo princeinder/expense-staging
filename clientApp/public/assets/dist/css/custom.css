@@ -1,0 +1,103 @@
+
+
+ .workflow .right-side h4 {
+    text-align: left;
+}
+
+.workflow .main-line h3 {
+    text-align: left;
+}
+ .cash-flow input[type="text"]{
+     text-align: center;
+ }
+ #example2 td:last-child{
+    display:flex;
+    justify-content: space-between;
+ }
+
+ .cash-flow .main-line {
+          border:none; 
+    /* border-top: 4px solid #4685c4; */
+ }
+
+ .cash-flow .cash-head {
+    border:none;
+ }
+
+ .workflow .inputScope1 .full-hd{
+    border: none;
+ }
+
+ .content .cash-flow h1 {
+    color: #123c5e;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.full-hd{
+    text-transform: none;
+}
+
+.full-hd h4 {
+    color: #1e4d7f;
+}
+
+.cash-flow .cash-head {
+    padding-left: 0;
+}
+
+.main-line-grey {
+    background: none;
+    color: #000;
+    border-top: 2px solid #4685c4;
+}
+
+.workflow .right-side h4 {
+    text-align: right;
+    color: #4685c4;
+    font-style: italic;
+}
+.cash-flow h2 {
+    font-size: 30px;
+
+}
+
+.inputScope1 .full-hd:first-child {
+    border-top: 6px solid #4685c4;
+}
+
+ .description-block span.description-text {
+    font-weight: 600;
+    text-transform: none !important;
+}
+    /* text-transform: uppercase; */
+   .row.content-main{
+       display: flex;
+       justify-content: center;
+   }
+
+   .content .description-block {
+    display: block;
+    margin: 10px 0;
+    text-align: center;
+    border: 2px solid #eee;
+    padding: 20px 0;
+}
+
+.cash-flow input[type="text"] {
+    text-align: right !important;
+}
+.main-line .cash-flow h3 ,.main-line-grey  h3 {
+    text-align: right ;
+
+}
+
+
+.content .description-block {
+    display: block;
+    margin: 10px 0;
+    text-align: right;
+    border: 2px solid #eee;
+    padding: 20px 35px;
+    padding-left: 0px;
+}

@@ -1,0 +1,28 @@
+.react-datepicker__input-container {
+  width: inherit;
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+.react-datepicker__day-name,
+.react-datepicker__day,
+.react-datepicker__time-name {
+  color: #000;
+  display: inline-block;
+  width: 1.7rem;
+  line-height: 1.7rem;
+  text-align: center;
+  margin: 5px;
+}
+
+.react-datepicker {
+  font-size: 14px;
+  width: 200px;
+}
+.react-datepicker__current-month,
+.react-datepicker-time__header,
+.react-datepicker-year-header {
+  font-size: 14px;
+}
